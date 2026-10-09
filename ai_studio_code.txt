@@ -1,0 +1,17 @@
+┌──────────────────────────────────────────────────────────┐
+│  [Top Banner]: Emotional Hook / Question                 │
+│  (e.g., "Downsizing for retirement in Metro Atlanta?")   │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│                 CURATED ATLANTA HOUSE                    │
+│                 EXTERIOR PHOTO (Pexels)                  │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│  [Bottom Banner / Text]: Value Offer / CTA               │
+│  (e.g., "Get our free Senior Downsizing Guide today!")   │
+├──────────────────────────────────────────────────────────┤
+│ [FOOTER COMPLIANCE BAR]:                                 │
+│ [Coldwell Banker Logo]   [MTL Realty LLC Logo]    [Equal │
+│                                                   Housing│
+│                                                    Bug]  │
+└──────────────────────────────────────────────────────────┘
